@@ -1,0 +1,8 @@
+.sutter-consent-question-intro {
+    background-image: url('../../assets/sutterQuestionIntro.png');
+    background-size: contain;
+    height: 525px;
+    width: 675px;
+    background-repeat: no-repeat;
+    margin: 0px auto;
+}
