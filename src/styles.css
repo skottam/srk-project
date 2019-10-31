@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+.content {
+    /* display: flex; */
+    margin: 32px auto;
+    padding: 0 16px;
+    max-width: 960px;
+    flex-direction: row;
+    align-items: center;
+}
+
+.continue-btn {
+    height: 30px;
+    width: auto;
+    border: 2px solid cadetblue;
+    border-radius: 17px;
+    color: cadetblue;
+}
+
+.btn-container {
+    text-align: right;
+}
